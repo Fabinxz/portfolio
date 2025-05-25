@@ -37,7 +37,7 @@ const projectsData = [
     description: "Uma aplicação web moderna e responsiva, desenvolvida para simplificar e otimizar o acompanhamento de treinos e progresso fitness.",
     tags: ["Next.js", "TypeScript", "Tailwind CSS",],
     image: "/fitt.png?height=400&width=600&text=Projeto+Ecom",
-    demoUrl: "",
+    demoUrl: "http://fittrack-phi.vercel.app/",
     repoUrl: "https://github.com/Fabinxz/Fittrack",
   },
   {
