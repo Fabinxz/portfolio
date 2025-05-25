@@ -45,7 +45,7 @@ const projectsData = [
     description: "Um dashboard de acompanhamento de metas dinâmico e responsivo, projetado para ajudar usuários a organizar e visualizar seu progresso em objetivos diários, semanais, mensais e anuais.",
     tags: ["HTML", "JavaScript", "CSS"],
     image: "/task.png?height=400&width=600&text=App+Produtivo",
-    demoUrl: "https://taskify-wine.vercel.app/",
+    demoUrl: "https://taskify-fabinxz.vercel.app/",
     repoUrl: "https://github.com/Fabinxz/Taskify",
   },
   {
