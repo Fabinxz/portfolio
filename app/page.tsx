@@ -48,7 +48,7 @@ const projectsData = [
     demoUrl: "https://taskify-fabinxz.vercel.app/",
     repoUrl: "https://github.com/Fabinxz/Taskify",
   },
-  {
+    {
     title: "Clone da Página Principal do Valorant: Um Estudo de UI/Frontend",
     description: "Este projeto é uma recriação fiel da interface da página principal do popular jogo FPS tático, Valorant. Desenvolvido com foco na precisão visual e na replicação da experiência do usuário",
     tags: ["HTML", "JavaScript", "CSS"],
